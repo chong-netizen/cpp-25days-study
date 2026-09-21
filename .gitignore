@@ -1,0 +1,19 @@
+# ===== C/C++ 编译产物（不上传 GitHub）=====
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+*.ilk
+a.exe
+a.out
+
+# ===== 调试与 IDE 文件 =====
+.vs/
+*.user
+*.suo
+.vscode/ipch/
+
+# ===== 系统文件 =====
+Thumbs.db
+.DS_Store
