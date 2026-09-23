@@ -15,7 +15,7 @@
 
 - [x] **Day 1**　开发环境与第一个 C++ 程序　→ [笔记](notes/Day01-开发环境与第一个C++程序.md)
 - [x] **Day 2**　基本变量类型　→ [笔记](notes/Day02-基本变量类型.md)
-- [ ] **Day 3**　变量的默认初始化与 const　→ [笔记](notes/Day03-变量初始化与const.md)
+- [x] **Day 3**　变量的默认初始化与 const　→ [笔记](notes/Day03-变量初始化与const.md)
 - [ ] **Day 4**　auto、using 与变量生命周期　→ [笔记](notes/Day04-auto-using-生命周期.md)
 - [ ] **Day 5**　分支与条件语句　→ [笔记](notes/Day05-分支与条件语句.md)
 - [ ] **Day 6**　循环语句　→ [笔记](notes/Day06-循环语句.md)
